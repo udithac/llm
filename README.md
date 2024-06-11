@@ -34,5 +34,5 @@ To get started with the experiments, clone this repository and install the requi
 
 ```sh
 git clone https://github.com/your-username/llm.git
-cd llm-experiments
+cd llm
 pip install -r requirements.txt
