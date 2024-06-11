@@ -33,6 +33,6 @@ Each experiment is located in its own directory under the `experiments` folder, 
 To get started with the experiments, clone this repository and install the required dependencies:
 
 ```sh
-git clone https://github.com/your-username/llm-experiments.git
+git clone https://github.com/your-username/llm.git
 cd llm-experiments
 pip install -r requirements.txt
